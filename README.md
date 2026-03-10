@@ -77,6 +77,8 @@ mentora-project/
 └─ README.md
 
 
+
+
 **Backend Setup:**
 
 
@@ -104,6 +106,8 @@ MONGO\_URI
 
 
 5.Backend runs on     :  **http://localhost:5000**
+
+
 
 
 
@@ -152,6 +156,7 @@ MONGO\_URI
 
 
 * Home → Login as Mentor → Mentor Dashboard → Lessons
+
 
 
 
