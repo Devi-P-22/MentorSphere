@@ -2,7 +2,7 @@
 
 
 
-* About the Project
+About the Project
 
 
 
@@ -75,6 +75,8 @@ mentora-project/
 │  └─ App.js
 
 └─ README.md
+
+
 
 
 
@@ -156,6 +158,7 @@ MONGO\_URI
 
 
 * Home → Login as Mentor → Mentor Dashboard → Lessons
+
 
 
 
