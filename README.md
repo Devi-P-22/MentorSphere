@@ -77,9 +77,6 @@ mentora-project/
 └─ README.md
 
 
-
-
-
 * **Backend Setup:**
 
 
@@ -156,6 +153,7 @@ MONGO\_URI
 
 
 * Home → Login as Mentor → Mentor Dashboard → Lessons
+
 
 
 
